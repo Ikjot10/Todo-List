@@ -8,7 +8,6 @@ import uuid from 'uuid';
 
 import './App.css';
 
-
 class App extends React.Component {
   state = {
     todos: []
